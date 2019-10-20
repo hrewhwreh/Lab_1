@@ -1,0 +1,9 @@
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\bin\Debug\Lab_1_chm.exe
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\bin\Debug\Lab_1_chm.pdb
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\bin\Debug\ZedGraph.dll
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\obj\Debug\Lab_1_chm.csprojResolveAssemblyReference.cache
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\obj\Debug\Lab_1_chm.Form1.resources
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\obj\Debug\Lab_1_chm.Properties.Resources.resources
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\obj\Debug\Lab_1_chm.csproj.GenerateResource.Cache
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\obj\Debug\Lab_1_chm.exe
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\Lab_1_chm\Lab_1_chm\obj\Debug\Lab_1_chm.pdb
